@@ -22,7 +22,8 @@ the list can be easily filtered through use the function `CtrL + F` (or `Cmd + F
 ### What to Learn (simplified)
 - To make iPhone Apps - [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language)), [Objective-C](https://en.wikipedia.org/wiki/Objective-C)
 - To make Android Apps - [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language)), [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
-- To Build Websites - [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS), [Javascript](https://en.wikipedia.org/wiki/JavaScript)
+- To Build Websites - [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS), [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+- Windows Desktop Application - [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 
 
 ## Courses
