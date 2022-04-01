@@ -15,7 +15,7 @@ the list can be easily filtered through use the function `CtrL + F` (or `Cmd + F
 ## Courses
 
 ### Curriculums
--[The Odin Project] (https://www.theodinproject.com/) This compromises foundational CSS, HTML, JavaScript alongside integration of Git. Additionally there are courses on Full Stack Ruby On Rail and Javascript
+- [The Odin Project](https://www.theodinproject.com/) This compromises foundational CSS, HTML, JavaScript alongside integration of Git. Additionally there are courses on Full Stack Ruby On Rail and Javascript
 
 
 
