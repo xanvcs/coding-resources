@@ -10,11 +10,12 @@ the list can be easily filtered through use the function `CtrL + F` (or `Cmd + F
 
 ## Contents 📑
 - [Courses](#Courses)
-  - [Free Courses](#Curriculms)  
+  - [Curriculums](#Curriculums)  
 
 ## Courses
 
-### Curriculms
+### Curriculums
+-[The Odin Project] (https://www.theodinproject.com/) This compromises foundational CSS, HTML, JavaScript alongside integration of Git. Additionally there are courses on Full Stack Ruby On Rail and Javascript
 
 
 
