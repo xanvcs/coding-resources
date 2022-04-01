@@ -20,6 +20,7 @@ the list can be easily filtered through use the function `CtrL + F` (or `Cmd + F
 
 ### What to Learn
 - To make iPhone Apps - [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language)), [Objective-C](https://en.wikipedia.org/wiki/Objective-C)
+- To make Android Apps - [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language)), [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
 
 
 ## Courses
