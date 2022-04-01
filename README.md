@@ -14,6 +14,7 @@ the list can be easily filtered through use the function `CtrL + F` (or `Cmd + F
   - [Curriculums](#Curriculums)  
   - [Paid Courses](#Paid)
 - [Exercises](#Exercises)
+  - [Directed Exercises](#Directed-Exercises)
 - [Indexes](#Indexes)
 
 ## Languages
@@ -21,6 +22,7 @@ the list can be easily filtered through use the function `CtrL + F` (or `Cmd + F
 ### What to Learn
 - To make iPhone Apps - [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language)), [Objective-C](https://en.wikipedia.org/wiki/Objective-C)
 - To make Android Apps - [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language)), [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
+- 
 
 
 ## Courses
@@ -43,6 +45,8 @@ the list can be easily filtered through use the function `CtrL + F` (or `Cmd + F
 - [CodeGym](https://codegym.cc) Courses for specifically Java
 
 ## Exercises
+
+### Directed Exercises
 - [Code Wars](https://www.codewars.com) Exercises on a multitude of languages that help reinforce concepts of skills
 - [w3schools](https://www.w3schools.com) Offers basic exercises on each language that helps reinforce basic concepts
 
