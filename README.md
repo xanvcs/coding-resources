@@ -10,6 +10,7 @@ the list can be easily filtered through use the function `CtrL + F` (or `Cmd + F
 
 ## Contents 📑
 - [Courses](#Courses)
+  - [Free Courses](#Free Courses)  
 
 ## Courses
 
