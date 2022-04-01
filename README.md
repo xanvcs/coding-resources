@@ -13,7 +13,7 @@ the list can be easily filtered through use the function `CtrL + F` (or `Cmd + F
   - [Curriculums](#Curriculums)  
   - [Paid Courses](#Paid)
 - [Exercises](#Exercises)
-- [Indexes]
+- [Indexes](#Indexes)
 
 ## Courses
 
