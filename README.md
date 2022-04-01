@@ -19,7 +19,7 @@ the list can be easily filtered through use the function `CtrL + F` (or `Cmd + F
 ## Languages
 
 ### What to Learn
-- To make iPhone Apps - [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language), [Objective-C](https://en.wikipedia.org/wiki/Objective-C)
+- To make iPhone Apps - [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language) , [Objective-C](https://en.wikipedia.org/wiki/Objective-C)
 
 
 ## Courses
