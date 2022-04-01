@@ -9,9 +9,10 @@ the list will be compiled over time as i accumulate more resources. this is comp
 the list can be easily filtered through use the function `CtrL + F` (or `Cmd + F` on MacOS) to find the programming language you are looking for. some items may be able to fit in multiple categories.
 
 ## Contents 📑
+- [Courses](#Courses)
 
 ## Courses
 
 ### Free Courses
-- 
+
 
