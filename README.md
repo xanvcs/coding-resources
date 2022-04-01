@@ -11,14 +11,33 @@ the list can be easily filtered through use the function `CtrL + F` (or `Cmd + F
 ## Contents 📑
 - [Courses](#Courses)
   - [Curriculums](#Curriculums)  
+  - [Paid Courses](#Paid)
 
 ## Courses
 
 ### Curriculums
-- [The Odin Project](https://www.theodinproject.com/) This compromises foundational CSS, HTML, JavaScript alongside integration of Git. Additionally there are courses on Full Stack Ruby On Rail and Javascript
+- [The Odin Project](https://www.theodinproject.com/) This compromises foundational CSS, HTML, JavaScript alongside integration of Git. Additionally, there are courses on Full Stack Ruby On Rail and Javascript
 - [Full Stack Open 2022](https://fullstackopen.com/en/) Encompasses React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one course
 - [freeCodeCamp](https://www.freecodecamp.org/) Has many courses that encompass over a multitude of areas. It includes both front end and back end courses
-- [edX](https://www.edx.org/) Courses from many different colleges such as MIT and Harvard
+- [edX](https://www.edx.org/) Courses from many different colleges such as MIT and Harvard's CS50
+
+### Paid
+- [Udemy](https://www.udemy.com/) A website compromised of courses in many languages from Python, Kotlin, Java, C++, and others
+https://www.theodinproject.com/paths/foundations/courses/foundations
+https://fullstackopen.com/en/
+https://www.freecodecamp.org/
+https://codewithmosh.com/
+https://www.udemy.com/
+https://www.codewars.com/
+https://www.coursera.org/
+http://inventwithpython.com/
+https://www.edx.org/
+https://www.codecademy.com/
+https://www.sololearn.com/home
+https://www.w3schools.com/
+https://code.org/beyond/extended-learning
+https://bento.io/
+https://www.udacity.com/
 
 
 
