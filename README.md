@@ -19,6 +19,8 @@ the list can be easily filtered through use the function `CtrL + F` (or `Cmd + F
 ## Languages
 
 ### What to Learn
+To make iPhone Apps - Swift, Objective-C
+
 
 ## Courses
 
