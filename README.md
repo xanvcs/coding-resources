@@ -25,6 +25,7 @@ the list can be easily filtered through use the function `CtrL + F` (or `Cmd + F
 - [Coursera](https://www.coursera.org) Coding coures from Google and universities. Includes videos and exercises
 - [Bento](https://bento.io/) Offers many learning tracks that is accomphlished with a full stack developer curriculum
 - [sololearn](https://www.sololearn.com/home) Courses on many languages such as python
+- [Invent With Python](http://inventwithpython.com/) Books written by Al Sweigart for Python
 
 ### Paid
 - [Udemy](https://www.udemy.com/) A website compromised of courses in many languages from Python, Kotlin, Java, C++, and others
@@ -36,13 +37,10 @@ the list can be easily filtered through use the function `CtrL + F` (or `Cmd + F
 ## Exercises
 - [Code Wars](https://www.codewars.com) Exercises on a multitude of languages that help reinforce concepts of skills
 - [w3schools](https://www.w3schools.com) Offers basic exercises on each language that helps reinforce basic concepts
-- 
 
 ### Indexes
 - [code.org](https://code.org/beyond/extended-learning) Resources to extend your learning with
 - [hackr.io](https://hackr.io) Index to find the best programming courses and tutorials for a specific language of choice
-
-http://inventwithpython.com/
 
 
 
