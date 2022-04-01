@@ -16,6 +16,9 @@ the list can be easily filtered through use the function `CtrL + F` (or `Cmd + F
 
 ### Curriculums
 - [The Odin Project](https://www.theodinproject.com/) This compromises foundational CSS, HTML, JavaScript alongside integration of Git. Additionally there are courses on Full Stack Ruby On Rail and Javascript
+- [Full Stack Open 2022](https://fullstackopen.com/en/) Encompasses React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one course
+- [freeCodeCamp](https://www.freecodecamp.org/) Has many courses that encompass over a multitude of areas. It includes both front end and back end courses
+- [edX](https://www.edx.org/) Courses from many different colleges such as MIT and Harvard
 
 
 
