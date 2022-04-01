@@ -31,6 +31,7 @@ the list can be easily filtered through use the function `CtrL + F` (or `Cmd + F
 - [Mosh](https://codewithmosh.com/) Offers courses on Python, HTML, CCS, Django, Java, React, SQL, etc
 - [Udacity](https://www.udacity.com/) Paid and Free courses that will "get the skills you need for a $100k+ tech career in just 3 months"
 - [educative](https://www.educative.io/) "World-class courses for world-class software developers"
+- [CodeGym](https://codegym.cc) Courses for specifically Java
 
 ## Exercises
 - [Code Wars](https://www.codewars.com) Exercises on a multitude of languages that help reinforce concepts of skills
