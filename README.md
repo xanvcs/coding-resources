@@ -12,6 +12,6 @@ the list can be easily filtered through use the function `CtrL + F` (or `Cmd + F
 
 ## Courses
 
-## Free Courses
--
+### Free Courses
+- 
 
