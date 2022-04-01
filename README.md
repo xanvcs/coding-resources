@@ -20,6 +20,7 @@ the list can be easily filtered through use the function `CtrL + F` (or `Cmd + F
 - [Full Stack Open 2022](https://fullstackopen.com/en/) Encompasses React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one course
 - [freeCodeCamp](https://www.freecodecamp.org/) Has many courses that encompass over a multitude of areas. It includes both front end and back end courses
 - [edX](https://www.edx.org/) Courses from many different colleges such as MIT and Harvard's CS50
+- [Coursera](https://www.coursera.org) Coding coures from Google and universities 
 
 ### Paid
 - [Udemy](https://www.udemy.com/) A website compromised of courses in many languages from Python, Kotlin, Java, C++, and others
