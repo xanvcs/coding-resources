@@ -38,7 +38,7 @@ the list can be easily filtered through use the function `CtrL + F` (or `Cmd + F
 - [Code Wars](https://www.codewars.com) Exercises on a multitude of languages that help reinforce concepts of skills
 - [w3schools](https://www.w3schools.com) Offers basic exercises on each language that helps reinforce basic concepts
 
-### Indexes
+## Indexes
 - [code.org](https://code.org/beyond/extended-learning) Resources to extend your learning with
 - [hackr.io](https://hackr.io) Index to find the best programming courses and tutorials for a specific language of choice
 
