@@ -46,6 +46,10 @@ the list can be easily filtered through use the function `Ctrl + F` (or `Cmd + F
 - [educative](https://www.educative.io/) "World-class courses for world-class software developers"
 - [CodeGym](https://codegym.cc) Courses for specifically Java
 
+### Videos
+- [Fireship](https://www.youtube.com/c/Fireship/featured) Videos and tutorials on a variety of languages and its applications
+- [Code with Vincent](https://www.youtube.com/c/CodewithVincent/featured) Coding bootcamp
+
 ## Exercises
 
 ### Directed Exercises
