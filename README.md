@@ -38,6 +38,7 @@ the list can be easily filtered through use the function `Ctrl + F` (or `Cmd + F
 - [Bento](https://bento.io/) Offers many learning tracks that is accomphlished with a full stack developer curriculum
 - [sololearn](https://www.sololearn.com/home) Courses on many languages such as python
 - [Invent With Python](http://inventwithpython.com/) Books written by Al Sweigart for Python
+- [Deep Learning Python](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-JjbutIKBSmqXDt6KcTv4Zg&siteID=PtFMiHYfEVk-JjbutIKBSmqXDt6KcTv4Zg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) Python course of deep learning
 
 ### Paid
 - [Udemy](https://www.udemy.com/) A website compromised of courses in many languages from Python, Kotlin, Java, C++, and others
