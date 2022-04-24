@@ -46,6 +46,7 @@ the list can be easily filtered through use the function `Ctrl + F` (or `Cmd + F
 - [Udacity](https://www.udacity.com/) Paid and Free courses that will "get the skills you need for a $100k+ tech career in just 3 months"
 - [educative](https://www.educative.io/) "World-class courses for world-class software developers"
 - [CodeGym](https://codegym.cc) Courses for specifically Java
+- [LearnCPP](https://www.learncpp.com/) Full course for CPP
 
 ### Videos
 - [Fireship](https://www.youtube.com/c/Fireship/featured) Videos and tutorials on a variety of languages and its applications
