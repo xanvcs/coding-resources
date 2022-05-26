@@ -40,6 +40,7 @@ the list can be easily filtered through use the function `Ctrl + F` (or `Cmd + F
 - [Invent With Python](http://inventwithpython.com/) Books written by Al Sweigart for Python
 - [Deep Learning Python](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-JjbutIKBSmqXDt6KcTv4Zg&siteID=PtFMiHYfEVk-JjbutIKBSmqXDt6KcTv4Zg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) Python course of deep learning
 - [SQLBolt](https://sqlbolt.com/) SQL learning course
+- [App Academy Open](https://www.appacademy.io/course/app-academy-open) Free programming course
 
 ### Paid
 - [Udemy](https://www.udemy.com/) A website compromised of courses in many languages from Python, Kotlin, Java, C++, and others
