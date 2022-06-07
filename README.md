@@ -42,6 +42,7 @@ the list can be easily filtered through use the function `Ctrl + F` (or `Cmd + F
 - [SQLBolt](https://sqlbolt.com/) SQL learning course
 - [App Academy Open](https://www.appacademy.io/course/app-academy-open) Free programming course
 - [Exercism](https://exercism.org/) Free programming courses
+- [HackerRank](https://www.hackerrank.com/dashboard) Curriculum for a multitude of languages
 
 ### Paid
 - [Udemy](https://www.udemy.com/) A website compromised of courses in many languages from Python, Kotlin, Java, C++, and others
@@ -63,6 +64,7 @@ the list can be easily filtered through use the function `Ctrl + F` (or `Cmd + F
 - [Pluralsight](https://www.pluralsight.com/) Pluralsight
 - [CodinGame](https://www.codingame.com/home) Coding in games for practice
 - [CodeChef](https://www.codechef.com/) Coding community challenges
+- [CodeCombat](https://codecombat.com/) Coding challenges in video game format
 
 ## Indexes
 - [code.org](https://code.org/beyond/extended-learning) Resources to extend your learning with
