@@ -70,6 +70,8 @@ the list can be easily filtered through use the function `Ctrl + F` (or `Cmd + F
 - [code.org](https://code.org/beyond/extended-learning) Resources to extend your learning with
 - [hackr.io](https://hackr.io) Index to find the best programming courses and tutorials for a specific language of choice
 - [Class Central](https://www.classcentral.com/) Searches for programming curriculums and certificates
+- [DevDocs](https://devdocs.io/) Shows the documentation for several languages, all in one site
+- [YouCode](https://you.com/code) A ad-free search engine that specializes in helping the developer community
 
 
 
