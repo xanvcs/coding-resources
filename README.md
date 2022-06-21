@@ -55,6 +55,11 @@ the list can be easily filtered through use the function `Ctrl + F` (or `Cmd + F
 ### Videos
 - [Fireship](https://www.youtube.com/c/Fireship/featured) Videos and tutorials on a variety of languages and its applications
 - [Code with Vincent](https://www.youtube.com/c/CodewithVincent/featured) Coding bootcamp
+- [The New Boston](https://thenewboston.com/) Coding videos on multiple subjects
+
+## Books
+-[Programming, Motherfucker](http://programming-motherfucker.com/) Learn code the "hard way". It is a series of books on many programming languages
+
 
 ## Exercises
 
