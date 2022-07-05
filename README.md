@@ -43,6 +43,8 @@ the list can be easily filtered through use the function `Ctrl + F` (or `Cmd + F
 - [App Academy Open](https://www.appacademy.io/course/app-academy-open) Free programming course
 - [Exercism](https://exercism.org/) Free programming courses
 - [HackerRank](https://www.hackerrank.com/dashboard) Curriculum for a multitude of languages
+- [OverTheWire](https://overthewire.org/wargames/) Games that help you learn and practice security concepts
+- [HackTheBox](https://www.hackthebox.com/) Hacking curriculum
 
 ### Paid
 - [Udemy](https://www.udemy.com/) A website compromised of courses in many languages from Python, Kotlin, Java, C++, and others
