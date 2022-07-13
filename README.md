@@ -71,6 +71,7 @@ the list can be easily filtered through use the function `Ctrl + F` (or `Cmd + F
 
 ## Books
 - [Programming, Motherfucker](http://programming-motherfucker.com/) Learn code the "hard way". It is a series of books on many programming languages
+- [Red Team Field Manual](https://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504) Reference guide for Red Team members
 
 
 ## Exercises
