@@ -24,7 +24,8 @@ the list can be easily filtered through use the function `Ctrl + F` (or `Cmd + F
 - To make Android Apps - [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language)), [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
 - To Build Websites - [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS), [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 - Windows Desktop Applications - [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
-- Make 2D/3D Games - [JavaScript](https://en.wikipedia.org/wiki/JavaScript), 
+- Make 2D/3D Games - [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+- [FrontEnd Dev Roadmap](https://roadmap.sh/frontend)
 
 
 ## Courses
@@ -46,7 +47,9 @@ the list can be easily filtered through use the function `Ctrl + F` (or `Cmd + F
 - [OverTheWire](https://overthewire.org/wargames/) Games that help you learn and practice security concepts
 - [HackTheBox](https://www.hackthebox.com/) Hacking curriculum
 - [Exercism](https://exercism.org/) Coding courses for free
-- [Java Programming by Helsinki](https://java-programming.mooc.fi/) Java course offered by the University of Helsinki
+- [MOOC.fi](https://www.mooc.fi/en/#courses) Programming courses offered by the University of Helsinki
+- [Scrimba's React Course](https://scrimba.com/learn/learnreact) Learn react
+- [Stanford's Code in Place](https://codeinplace.stanford.edu/course) Stanford's beginner coding course
 
 ### Paid
 - [Udemy](https://www.udemy.com/) A website compromised of courses in many languages from Python, Kotlin, Java, C++, and others
@@ -74,6 +77,7 @@ the list can be easily filtered through use the function `Ctrl + F` (or `Cmd + F
 - [CodinGame](https://www.codingame.com/home) Coding in games for practice
 - [CodeChef](https://www.codechef.com/) Coding community challenges
 - [CodeCombat](https://codecombat.com/) Coding challenges in video game format
+- [Flexbox Froggy](https://flexboxfroggy.com/) Coding challenges for CSS
 
 ## Indexes
 - [code.org](https://code.org/beyond/extended-learning) Resources to extend your learning with
