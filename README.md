@@ -10,6 +10,7 @@ the list can be easily filtered through use the function `Ctrl + F` (or `Cmd + F
 
 ## Contents 📑
 - [Languages](#Languages)
+- [Roadmap](#Roadmaps/Guides)
 - [Courses](#Courses)
   - [Curriculums](#Curriculums)  
   - [Paid Courses](#Paid)
