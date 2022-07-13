@@ -26,6 +26,7 @@ the list can be easily filtered through use the function `Ctrl + F` (or `Cmd + F
 - Windows Desktop Applications - [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 - Make 2D/3D Games - [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 - [FrontEnd Dev Roadmap](https://roadmap.sh/frontend)
+- [Udemy learning track](https://www.udemytracks.com/)
 
 
 ## Courses
