@@ -55,6 +55,7 @@ the list can be easily filtered through use the function `Ctrl + F` (or `Cmd + F
 - [MOOC.fi](https://www.mooc.fi/en/#courses) Programming courses offered by the University of Helsinki
 - [Scrimba's React Course](https://scrimba.com/learn/learnreact) Learn react
 - [Stanford's Code in Place](https://codeinplace.stanford.edu/course) Stanford's beginner coding course
+- [Watch and Code](https://watchandcode.com/) Rigorious coding course
 
 ### Paid
 - [Udemy](https://www.udemy.com/) A website compromised of courses in many languages from Python, Kotlin, Java, C++, and others
