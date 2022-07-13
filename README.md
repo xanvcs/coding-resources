@@ -12,7 +12,7 @@ the list can be easily filtered through use the function `Ctrl + F` (or `Cmd + F
 - [Languages](#Languages)
 - [Roadmap](#Roadmaps/Guides)
 - [Courses](#Courses)
-  - [Curriculums](#Curriculums)  
+  - [Free Courses](#Free)  
   - [Paid Courses](#Paid)
 - [Exercises](#Exercises)
   - [Directed Exercises](#Directed-Exercises)
@@ -35,7 +35,7 @@ the list can be easily filtered through use the function `Ctrl + F` (or `Cmd + F
 
 ## Courses
 
-### Curriculums
+### Free
 - [The Odin Project](https://www.theodinproject.com/) This compromises foundational CSS, HTML, JavaScript alongside integration of Git. Additionally, there are courses on Full Stack Ruby On Rail and Javascript
 - [Full Stack Open 2022](https://fullstackopen.com/en/) Encompasses React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one course
 - [freeCodeCamp](https://www.freecodecamp.org/) Has many courses that encompass over a multitude of areas. It includes both front end and back end courses
